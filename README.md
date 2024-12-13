@@ -23,3 +23,4 @@ Techchak dealer store for your milestone frontend project
 **Client:** React, React-Router V6, Context API, Falcon UI Component Library
 
 **Server:** Mockbee (Mock Backend)
+# new-class-repo
